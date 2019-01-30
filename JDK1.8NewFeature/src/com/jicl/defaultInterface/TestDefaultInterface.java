@@ -4,7 +4,7 @@ import org.junit.Test;
 
 /**
  * ≤‚ ‘DefaultInterface
- * @author xianzilei
+ * @author xianzilei222
  *
  */
 public class TestDefaultInterface {
